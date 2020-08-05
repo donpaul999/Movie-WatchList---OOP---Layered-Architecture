@@ -1,4 +1,1 @@
-Title: Fight Club, Genre: Action, Year of Release: 1999, Likes: 1003, Trailer: www.youtube.com/watch?v=_XgQA9Ab0Gw;
-Title: Forest Gump, Genre: Comedy, Year of Release: 1994, Likes: 50001, Trailer: www.youtube.com/watch?v=uPIEn0M8su0;
-Title: Avengers - Infinity War, Genre: Adventure, Year of Release: 2018, Likes: 13000, Trailer: www.youtube.com/watch?v=6ZfuNTqbHE8;
 Title: The Shawshank Redemption, Genre: Drama, Year of Release: 1994, Likes: 190099, Trailer: www.youtube.com/watch?v=K_tLp7T6U1c;

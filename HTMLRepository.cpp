@@ -14,11 +14,12 @@ void HTMLRepository::writeUserMoviesToFile( std::vector<Movie> movieList, std::s
     fileOutput
             << "<tr><td>Title</td><td>Genre</td><td>Year of release</td><td>Number of likes</td><td>Link</td></tr>\n";
     for (const Movie &movieUsed: movieList) {
+        std::string trailerUsed = "https://" + movieUsed.getTrailer();
         fileOutput << "<tr><td>" << movieUsed.getTitle() << "</td>"
                    << "<td>" << movieUsed.getGenre() << "</td>"
                    << "<td>" << movieUsed.getYearOfRelease() << "</td>"
                    << "<td>" << movieUsed.getNumberOfLikes() << "</td>"
-                   << "<td><a href=\"" << movieUsed.getTrailer() << "\">"<<movieUsed.getTrailer()<<"</a></td>" << '\n';
+                   << "<td><a target=\"_blank\""<< trailerUsed <<"</a></td>" << '\n';
     }
     fileOutput << "</table></body></html>";
     fileOutput.close();
