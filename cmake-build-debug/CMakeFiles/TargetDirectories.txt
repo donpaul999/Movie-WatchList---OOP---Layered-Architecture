@@ -1,0 +1,4 @@
+/Users/paulcolta/Desktop/GitHub/WatchList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/paulcolta/Desktop/GitHub/WatchList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/paulcolta/Desktop/GitHub/WatchList/cmake-build-debug/CMakeFiles/Lab12.dir
+/Users/paulcolta/Desktop/GitHub/WatchList/cmake-build-debug/CMakeFiles/Lab12_autogen.dir
